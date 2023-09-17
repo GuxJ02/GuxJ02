@@ -1,11 +1,11 @@
-### HI 
-My name is Pablo, I'm from Argentina and I'm a SRE.
-* Currently working for [@splitio](https://github.com/splitio) as a Staff SRE
-* I have a [YouTube channel](https: //youtube.com/peladonerd) (in Spanish) about SRE technologies like Dock
-* I offer consulting hours, you can find a slot [here](https://peladonerd.as.me)
+### HELLO 👋
+My name is Javi, I'm from Spain(Madrid).
+* Currently studying 4th year of computer engineering with ethical hacking.
+* Searching for work practice in areas like IA, Data Science, cibersecurity and applications development
+
 ## Skills
-* Using Kubernetes in Production since 2016
-* AWS, Terraform, Docker, all the cloud stuff :)
+* Programs like: Python, Java, sql, html, css, C#
+* 
 * Critical thinking, decision-making and problem solving skills
 * Some Python coding
 * Special skills and experience in fast growing startups.
