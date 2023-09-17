@@ -1,7 +1,6 @@
 ### HELLO 👋
 My name is Javi, I'm from Spain(Madrid).
 * Currently studying 4th year of computer engineering with ethical hacking.
-* Searching for work practice in areas like IA, Data Science, cibersecurity and applications development
 
 ## Skills
 * Programs: Python, Java, sql, html, css, C#
