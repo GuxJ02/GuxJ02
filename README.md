@@ -8,4 +8,4 @@ My name is Javi, I'm from Spain(Madrid).
 * Critical thinking, decision-making and problem solving skills
 * Use of cibersecurity tools.
 ## Contact
-Contact me on [Linkedin](www.linkedin.com/in/javier-garzón-62b842255)
+Contact me on [Linkedin](https://www.linkedin.com/in/javier-garz%C3%B3n-62b842255/)
