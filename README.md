@@ -3,7 +3,7 @@ My name is Javi, I'm from Spain(Madrid).
 * I am a graduate in Computer Engineering.
 
 ## Skills
-* Programs: Python, Java, sql, html, css, C#, docker
+* Programs: Python, Java, sql, Generative AI, Maching learning and docker
 * Use of linux
 * Critical thinking, decision-making and problem solving skills
 * Use of cibersecurity tools.
