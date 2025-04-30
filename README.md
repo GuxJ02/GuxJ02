@@ -1,6 +1,6 @@
 ### HELLO 👋
 My name is Javi, I'm from Spain(Madrid).
-* I am a graduate in Computer Engineering with a specialization in Ethical Hacking.
+* I am a graduate in Computer Engineering.
 
 ## Skills
 * Programs: Python, Java, sql, html, css, C#, docker
