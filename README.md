@@ -1,6 +1,6 @@
 ### HELLO 👋
 My name is Javi, I'm from Spain(Madrid).
-* I am a graduate in Computer Engineering.
+* I am a software engineer.
 
 ## Skills
 * Programs: Python, Java, sql, Generative AI, Maching learning and docker
