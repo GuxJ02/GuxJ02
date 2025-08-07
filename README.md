@@ -10,6 +10,6 @@ My name is Javi, I'm from Spain.
 ## Interests
 * Interests focused on the development of AI software, applications, and data science.
 ## Contact
-Contact me on:[Linkedin](https://www.linkedin.com/in/javier-garz%C3%B3n-62b842255/)
+Contact me on: [Linkedin](https://www.linkedin.com/in/javier-garz%C3%B3n-62b842255/)
 
-About me:[Web Portfolio](https://www.javgm.com)
+About me: [Web Portfolio](https://www.javgm.com)
