@@ -1,5 +1,5 @@
 ### HELLO 👋
-My name is Javi, I'm from Spain(Madrid).
+My name is Javi, I'm from Spain.
 * I am a software engineer.
 
 ## Skills
